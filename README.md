@@ -5,9 +5,9 @@
 [![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2.50+-green.svg)](https://python.langchain.com/docs/langgraph)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/cdot65/langgraph-workshop-notebooks.svg)](https://github.com/cdot65/langgraph-workshop-notebooks/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/cdot65/naf-ai-agents-workshop.svg)](https://github.com/cdot65/naf-ai-agents-workshop/stargazers)
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cdot65/langgraph-workshop-notebooks?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cdot65/naf-ai-agents-workshop?quickstart=1)
 
 ---
 
@@ -261,8 +261,8 @@ naf-ai-agents-workshop/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/cdot65/langgraph-workshop-notebooks.git
-cd langgraph-workshop-notebooks
+git clone https://github.com/cdot65/naf-ai-agents-workshop.git
+cd naf-ai-agents-workshop
 ```
 
 ### Step 2: Install Dependencies
@@ -871,8 +871,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ### Community
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/cdot65/langgraph-workshop-notebooks/issues)
-- **Discussions**: [Ask questions and share ideas](https://github.com/cdot65/langgraph-workshop-notebooks/discussions)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/cdot65/naf-ai-agents-workshop/issues)
+- **Discussions**: [Ask questions and share ideas](https://github.com/cdot65/naf-ai-agents-workshop/discussions)
 
 ---
 
@@ -944,7 +944,7 @@ After completing all notebooks, build your own project:
 
 **Ready to build AI-powered network automation?**
 
-[Get Started](#%EF%B8%8F-installation) · [View Notebooks](#-notebooks) · [Join Community](https://github.com/cdot65/langgraph-workshop-notebooks/discussions)
+[Get Started](#%EF%B8%8F-installation) · [View Notebooks](#-notebooks) · [Join Community](https://github.com/cdot65/naf-ai-agents-workshop/discussions)
 
 ---
 
